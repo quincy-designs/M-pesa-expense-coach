@@ -1,5 +1,4 @@
 # M-Pesa Expense Coach – AI Integration & Repository Management
-Submitted by: Quinter
 
 # Overview
 This repository contains my individual contribution to the M-Pesa Expense Coach project. My role focused on AI API integration, prompt design, JSON response validation, AI financial summaries, and GitHub repository management.
